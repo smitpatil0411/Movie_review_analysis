@@ -1,3 +1,5 @@
+DATA SET LINK:- https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
 " Movie_review_analysis" 
 This project  develops a machine learning model for sentiment analysis on movie reviews, with the goal of automatically classifying reviews as positive or negative based on the sentiment expressed in the text. The project involves:
 
